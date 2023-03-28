@@ -22,4 +22,3 @@ RatioNumber operator+(RatioNumber ratioNumber1, const RatioNumber& ratioNumber2)
 RatioNumber operator-(RatioNumber ratioNumber1, const RatioNumber& ratioNumber2);
 RatioNumber operator*(RatioNumber ratioNumber1, const RatioNumber& ratioNumber2);
 RatioNumber operator/(RatioNumber ratioNumber1, const RatioNumber& ratioNumber2);
-
